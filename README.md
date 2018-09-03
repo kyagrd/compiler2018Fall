@@ -27,4 +27,8 @@
      이 책의 예제중에 몇가지를 그대로 혹은 약간 변형해서 수업에서도 일부 활용할 예정이다.
 
 ## 수업에 사용할 SW
-TODO
+ * [IHaskell](https://github.com/gibiansky/IHaskell) - [Haskell](http://haskell.org) 프로그래밍 언어를 지원하나는 [Jupyter](http://jupyter.org) 커널
+   - Docker for Toolbox를 이용한 IHaskell 설치 방법 [안내 영상](https://youtu.be/rvaXWrN6tJY)
+   - 최신 버전의 Mac OS X 및 Windows 10 Professional 에서 메모리 8GB이상을 갖춘 환경에서는
+     Docker for Toolbox 대신 더 최신 버전의 도커 소프트웨어인 Docker for Mac이나 Docker for Windows를 사용해도 된다.
+   - Linux를 사용하는 경우라면 설치가 더 간단하다. 배포판 docker 패키지로 docker 소프트웨어 설치 후 명령어를 실행하면 된다.

@@ -1,6 +1,9 @@
 ## 강의노트
 [![강의노트 바로가기](https://upload.wikimedia.org/wikipedia/commons/4/4a/Aviso_%22categor%C3%ADzame%22_%28espa%C3%B1ol%29.svg)](https://github.com/kyagrd/compiler2018Fall/wiki)
 
+## 평가
+과제 25%, 중간 30%, 기말 45%
+
 ## 수업에 사용할 책
 
 * [Compiler Design: Virtual Machines](https://www.amazon.com/Compiler-Design-Machines-Reinhard-Wilhelm/dp/3642149081)

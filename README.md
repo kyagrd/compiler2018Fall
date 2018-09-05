@@ -37,6 +37,8 @@
          ```
          docker run -it -v "`pwd`":/home/jovyan/ihaskell/notebooks -p 80:8888 kyagrd/ihaskell
          ```
+         위 명령어를 실행하는 디렉토리는 `/c/Users` 의 하위 디렉토리여야만 한다. 도커가 도는 가상머신 공유폴더가 `/c/Users`로 되어 있기 때문.
+         예를 들어 c드라이브 바로 밑에 디렉토리를 만들어 거기에서 위 명령어를 실행시키면 가상머신의 공유폴더 설정을 바꾸지 않는 한 주피터 서버에서 그 디렉토리에 접근하지 못한다.
    - 최신 버전의 Mac OS X 및 Windows 10 Professional 에서 메모리 8GB이상을 갖춘 환경에서는
      Docker for Toolbox 대신 더 최신 버전의 도커 소프트웨어인 Docker for Mac이나 Docker for Windows를 사용해도 된다.
    - Linux를 사용하는 경우라면 설치가 더 간단하다. 배포판 docker 패키지로 docker 소프트웨어 설치 후 명령어를 실행하면 된다. 

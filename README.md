@@ -1,6 +1,10 @@
 ## 강의노트
 [![강의노트 바로가기](https://upload.wikimedia.org/wikipedia/commons/4/4a/Aviso_%22categor%C3%ADzame%22_%28espa%C3%B1ol%29.svg)](https://github.com/kyagrd/compiler2018Fall/wiki)
 
+## 교수 연락처 및 공용 메신저
+* 안기영 kya@hnu.kr
+* [잔디 업무용 메신저](https://compiler.jandi.com/)
+
 ## 평가
 과제 25%, 중간 30%, 기말 45%
 
@@ -42,3 +46,4 @@
    - 최신 버전의 Mac OS X 및 Windows 10 Professional 에서 메모리 8GB이상을 갖춘 환경에서는
      Docker for Toolbox 대신 더 최신 버전의 도커 소프트웨어인 Docker for Mac이나 Docker for Windows를 사용해도 된다.
    - Linux를 사용하는 경우라면 설치가 더 간단하다. 배포판 docker 패키지로 docker 소프트웨어 설치 후 명령어를 실행하면 된다. 
+ * [잔디 업무용 메신저](https://compiler.jandi.com/)
